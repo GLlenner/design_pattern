@@ -1,3 +1,5 @@
+//实现原型模式
+
 #include<string>
 #include <memory>
 #include <iostream>
